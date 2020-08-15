@@ -1,0 +1,24 @@
+{
+  "c":[{
+    "id": "c1",
+    "name": "Aditya Mishra",
+    "address": "E-603, Veracious Vanivilas, Yelahanka, Bangalore - 560064",
+    "email": "adityakrmishra0@gmail.com",
+    "phone": "8210575373"
+    },
+   {
+       "id": "c2",
+       "name": "Harsh Biradar",
+       "address": "DS Max, Avalahalli, Bangalore - 560064",
+       "email": "harsh.biradar2001@gmail.com",
+       "phone": "9192872200"
+    },
+    {
+        "id": "c3",
+        "name": "abc xyz",
+        "address": "Nagenahalli, Yelhanka, Bangalore - 560064",
+        "email": "abc@gmail.com",
+        "phone": "9125865487"
+    }]
+}
+
