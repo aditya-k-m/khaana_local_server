@@ -33,6 +33,18 @@ app.get("/customer/:customerId", function(req, res){
     }
 });
 
+//setting up api to get dishes (set 1)
+app.get("/dishes", function(req, res){
+    const dishes = require("./data/dishes.json");
+    res.send(dishes.d);
+});
+
+//setting up route to get dishes (set 2)
+app.get("/dishes2", function(req, res){
+    const dishes = require("./data/dishes2.json");
+    res.send(dishes.d);
+});
+
 //setting up the server port
 app.listen(3000, function(){
     console.log("Server started on port 3000");

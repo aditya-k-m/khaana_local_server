@@ -1,0 +1,32 @@
+{
+    "d":[{
+        "name": "Thatte Idli",
+        "price": 45,
+        "picLink": "https://www.lekhafoods.com/media/1051267/thatte-idly.jpg"
+    },
+{
+    "name": "Poha",
+    "price": 40,
+    "picLink": "https://cdn3.foodviva.com/static-content/food-images/breakfast-recipes/poha-recipe/poha-recipe-1.jpg"
+},
+{
+    "name": "Masala Dosa",
+    "price": 30,
+    "picLink": "https://craftlog.com/m/i/3226560=s1280=h960"
+},
+{
+    "name": "Veggie Sandwich",
+    "price": 10,
+    "picLink": "https://www.acouplecooks.com/wp-content/uploads/2018/05/Rainbow-Vegetable-Sandwich-007.jpg"
+},
+{
+    "name": "Lassi",
+    "price": 10,
+    "picLink": "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/04/lassi-recipe.jpg"
+},
+{
+    "name": "Bread Butter",
+    "price": 15,
+    "picLink": "https://ratlamee.com/wp-content/uploads/2018/10/Bread-Butter-1.jpg"
+}]
+}

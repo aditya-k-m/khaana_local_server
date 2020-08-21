@@ -1,0 +1,32 @@
+{
+    "d":[{
+        "name": "Dal Makhani",
+        "price": 78,
+        "picLink": ""
+    },
+{
+    "name": "Paneer Tikka Masala",
+    "price": 80,
+    "picLink": ""
+},
+{
+    "name": "Paneer Butter Masala",
+    "price": 80,
+    "picLink": ""
+},
+{
+    "name": "Apple Juice",
+    "price": 10,
+    "picLink": ""
+},
+{
+    "name": "Aloo Matar",
+    "price": 40,
+    "picLink": ""
+},
+{
+    "name": "Bhindi Masala",
+    "price": 50,
+    "picLink": ""
+}]
+}
